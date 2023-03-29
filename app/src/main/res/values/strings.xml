@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+
+    <string name="calculate">Calculate</string>
+
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+
+    <string-array name="unit">
+        <item>Celsius(C)</item>
+        <item>Fahrenheit(F)</item>
+        <item>Kelvin(K)</item>
+    </string-array>
+
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="about_msg">Temperature Conversion for Celsius (C), Fahrenheit (F) and Kelvin (K).</string>
+
+    <string name="warning">The input cannot be empty.</string>
+
+    <string name="ok"></string>
+
+</resources>
